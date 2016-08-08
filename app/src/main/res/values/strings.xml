@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="header_text">City, Country</string>
+    <string name="temperature_text">Temperature</string>
+    <string name="wind_text">Wind</string>
+    <string name="cloud_text">Cloud Cover</string>
+    <string name="pressure_text">Pressure</string>
+    <string name="humidity_text">Humidity</string>
+    <string name="update_text">Last Updated</string>
+    <string name="change_text">Change Location</string>
+</resources>
